@@ -22,16 +22,18 @@ Master C++ from basics to advanced topics with a well-structured video series.
 
 ## 🌐 Live Website
 
-> 🎯 **Coming Soon** – Hosted page with video embeds and contact form.
+> 🚀 **Visit Now:** [https://beyond-limit.vercel.app/](https://beyond-limit.vercel.app/)
+
+Explore tutorials, watch videos, and reach out via the contact form—all in one place.
 
 ---
 
 ## 💡 Features
 
-- Embedded YouTube playlists for instant access
-- Responsive design (mobile & desktop)
-- Contact form powered by [Formspree](https://formspree.io)
-- Clean UI with structured layout
+- 🎥 Embedded YouTube Playlists  
+- 📱 Responsive Mobile-Friendly Layout  
+- 📩 Contact Form (powered by Formspree)  
+- 🌙 Clean, dark-themed UI  
 
 ---
 
@@ -39,8 +41,8 @@ Master C++ from basics to advanced topics with a well-structured video series.
 
 - HTML5 & CSS3
 - YouTube Iframe Embeds
-- Formspree for contact submission
-- Mobile-first design principles
+- Formspree for contact form integration
+- Hosted on Vercel
 
 ---
 
@@ -48,8 +50,8 @@ Master C++ from basics to advanced topics with a well-structured video series.
 
 Got feedback, questions, or collaboration ideas?
 
-💌 [Use the Contact Form](#contact) on our website  
-📧 Or email us via the Formspree integration
+💌 [Contact Us](https://beyond-limit.vercel.app/#contact) via the website  
+📧 Or email us through the built-in Formspree form
 
 ---
 
@@ -58,7 +60,7 @@ Got feedback, questions, or collaboration ideas?
 If you find our content helpful:
 - ✅ Subscribe to [Beyond Limit](https://youtube.com/@beyondlimit-y2y?si=JZZ6pLjDoeuIa3j4)
 - ⭐ Star this repository
-- 🔁 Share it with your friends
+- 🔁 Share with your friends and peers
 
 ---
 
